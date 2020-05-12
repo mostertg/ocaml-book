@@ -14,12 +14,12 @@ Everyone is welcome to contribute. Just create a pull request.
 
 ## Building
 
-This book uses [soupault](https://soupault.neocities.org) website generator.
-You'll need the dev version now, some features are not yet in a release.
+~~This book uses [soupault](https://soupault.neocities.org) website generator.
+You'll need the dev version now, some features are not yet in a release.~~
 
-For converting pages from Markdown to HTML it uses the `cmark` program.
+~~For converting pages from Markdown to HTML it uses the `cmark` program.~~
+Use `pandoc` to convert to HTML or PDF.
 
 ## Reading
 
-A draft more or less in sync with the repo lives at https://ocaml-book.baturin.org
-I should setup a CI for it eventually.
+The original repo can be found at https://ocaml-book.baturin.org
